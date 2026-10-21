@@ -1,4 +1,4 @@
-# Machine Learning Labs
+# Machine Learning Labs 
 
 This repository contains practical lab exercises completed while learning Python and preparing for Machine Learning.
 
